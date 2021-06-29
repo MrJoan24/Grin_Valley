@@ -9,10 +9,10 @@ Para disparar en la primera batalla de la memoria y utilizar el escudo (para dev
 
 Antes de poder acceder a la memoria (Norte, Este) se deben conseguir el bastón de caramelo y el manto.
 
-Bastón de caramelo: debes ir a ver a Mara (casa al norte de Grin Valley) y comprarlo en la Candy Shop (oeste Grin Valley)
+Bastón de caramelo: debes ir a ver a Mara (casa al norte de Grin Valley) y comprarlo en la Candy Shop (oeste Grin Valley).
 
-Manto: deber ir a ver a Harold al cementerio (Norte, Oeste) y despues ir a ver a Getrude (este Grin Valley)
+Manto: deber ir a ver a Harold al cementerio (Norte, Oeste) y despues ir a ver a Getrude (este Grin Valley).
 
-A partir de este momento se puede acceder a la memoria del guardia (Norte, Este)
+A partir de este momento se puede acceder a la memoria del guardia (Norte, Este).
 
-Disfrtuad de la Demo
+Disfrutad de la Demo.
